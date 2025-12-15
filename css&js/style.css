@@ -1,0 +1,11 @@
+/* Print optimization */
+@media print {
+  body {
+    background: white !important;
+  }
+  nav {
+    display: none !important;
+  }
+}
+
+/* Optional: Add any additional custom CSS here */
